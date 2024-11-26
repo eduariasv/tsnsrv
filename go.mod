@@ -1,4 +1,4 @@
-module github.com/boinkor-net/tsnsrv
+module github.com/eduariasv/tsnsrv
 
 go 1.23
 
