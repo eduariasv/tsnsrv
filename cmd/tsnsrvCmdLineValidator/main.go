@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/boinkor-net/tsnsrv"
+	"github.com/eduariasv/tsnsrv"
 	"github.com/peterbourgon/ff/v3/ffcli"
 )
 
